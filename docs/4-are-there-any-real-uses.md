@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # What are some examples of smart-contract applications?
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">4. give me an example of an interesting smart contract that already exists today, and explain how it’s used</p>&mdash; Dan (@dan_abramov) <a href="https://twitter.com/dan_abramov/status/1474053759001059330?ref_src=twsrc%5Etfw">December 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">4. give me an example of an interesting smart contract that already exists today, and explain how it’s used</p>&mdash; Dan (@dan_abramov) <a href="https://twitter.com/dan_abramov/status/1474053759001059330?ref_src=twsrc%5Etfw">December 23, 2021</a></blockquote>
 
 A common question around web3 and blockchains in general is whether there are real world use cases that aren't possible without the decentralised, immutable ledger.
 
@@ -20,10 +20,6 @@ An automated market maker is a smart contract and a frontend that allows tokens 
 
 #### 3. Stablecoins
 
-Stablecoins are a tokens pegged to real world currencies most commonly the US dollar. However being blockchain-native, these "dollars" can be programed into smart contracts and sent instantly to any other wallet. They are used for buying, selling, lending, interest payments, international remittance and more. Stablecoins serve as 24/7, permisionless, programmable money but without the price volatibility associate with most crypto assets. [Learn more](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)
+Stablecoins are a tokens pegged to real world currencies most commonly the US dollar. However being blockchain-native, these "dollars" can be programed into smart contracts and sent instantly to any other wallet. They are used for buying, selling, lending, interest payments, international remittance and more. Stablecoins serve as 24/7, permisionless, programmable money but without the price volatibility associate with most crypto assets. [Learn more](https://www.coinbase.com/learn/crypto-basics/what-is-a-stablecoin)
 
 With services like [Coinbase Commerce](https://commerce.coinbase.com/), stablecoins can even be used in lieu of a credit card for purchasing goods online.
-
-#### Read More
-
-- **[What is a stablecoin](https://www.coinbase.com/learn/crypto-basics/what-is-a-stablecoin)** - Coinbase
