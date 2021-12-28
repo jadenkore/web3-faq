@@ -24,4 +24,4 @@ $ npm run serve
 
 ### Contribute
 
-If you would to suggest an FAQ question or answer, open a pull request with the addition/amendment.
+If you would to suggest an FAQ question or answer, open an issue with the addition/amendment.
