@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Web3 FAQs',
   tagline: 'Frequently asked questions about Web3 by developers',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://web3faq.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   // organizationName: '', // Usually your GitHub org/user name.
-  projectName: 'web3faqs', // Usually your repo name.
+  projectName: 'web3-faq', // Usually your repo name.
 
   presets: [
     [
@@ -25,7 +25,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/jadenkore/web3-faq/blob/master',
         },
         blog: false,
         theme: {
