@@ -10,7 +10,7 @@ Among the web3 smart-contract networks, Ethereum, the oldest, is the only one th
 :::tip Web3 !== Bitcoin
 Despite both being blockchain-based, Web3 and Bitcoin are quite different. Web3 networks like Ethereum are smart-contract platforms which support applications while Bitcoin is a store of value asset like Gold.
 :::
-Unlike Proof of Work mining, Proof of Stake validators don't require specialised hardware and often run on regular cloud servers. Newer smart-contract networks like [Solana](https://solana.com/news/solana-energy-usage-report-november-2021) and Avalanche were launched on Proof of Stake (PoS) from inception.
+Unlike Proof of Work mining, Proof of Stake validators don't require specialised hardware and often run on regular cloud servers. Newer smart-contract networks like [Solana](https://solana.com/news/solana-energy-usage-report-november-2021) and Avalanche were launched on Proof of Stake from inception.
 
 #### Read More
 

@@ -6,7 +6,7 @@ sidebar_position: 4
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">4. give me an example of an interesting smart contract that already exists today, and explain how it’s used</p>&mdash; Dan (@dan_abramov) <a href="https://twitter.com/dan_abramov/status/1474053759001059330?ref_src=twsrc%5Etfw">December 23, 2021</a></blockquote>
 
-A common question around web3 and blockchains in general is whether there are real world use cases that aren't possible without the decentralised, immutable ledger.
+A common question around web3 and blockchains is whether there are real world use cases that aren't possible without the decentralised, immutable ledger.
 
 Some examples focused on non-speculative uses:
 
