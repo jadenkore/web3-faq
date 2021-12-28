@@ -1,17 +1,11 @@
-# Website
+# Web3 FAQ
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
+This site is built using [Docusaurus 2](https://docusaurus.io/). All pages are rendered from markdown files in the `/docs` folder.
 
 ### Local Development
 
 ```
-$ yarn start
+$ npm start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -19,23 +13,15 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```
-$ yarn build
+$ npm run build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
+This command generates static content into the `build` directory and can be served using any static hosting service. To test the build locally use:
 
 ```
-$ USE_SSH=true yarn deploy
+$ npm run serve
 ```
 
-Not using SSH:
+### Contribute
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+If you would to suggest an FAQ question or answer, open a pull request with the addition/amendment.
