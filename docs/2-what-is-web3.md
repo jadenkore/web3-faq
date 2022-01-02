@@ -14,4 +14,4 @@ Web3.0 or the Semantic Web is an older term coined by internet pioneer Tim Berne
 
 #### Read More
 
-**[Web2 vs Web3](https://docusaurus.new)** - ethereum.org
+**[Web2 vs Web3](https://ethereum.org/en/developers/docs/web2-vs-web3/)** - ethereum.org
